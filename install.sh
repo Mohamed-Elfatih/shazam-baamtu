@@ -11,4 +11,5 @@ mamba install -c conda-forge mysql-connector-python=8.0.28
 mamba install -c conda-forge requests=2.27.1
 mamba install -c conda-forge termcolor
 mamba install -c conda-forge tqdm
+mamba install -c conda-forge fastapi
 
